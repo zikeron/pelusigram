@@ -1,4 +1,4 @@
-# Pelutsigram
+# Pelusigram
 
 An web site in honor to my little pet.
 

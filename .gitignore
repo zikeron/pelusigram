@@ -164,3 +164,10 @@ dist/
 
 #versions
 package-lock.json
+
+#sapper
+src/node_modules
+__sapper__
+
+# environment
+.env

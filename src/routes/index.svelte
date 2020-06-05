@@ -1,3 +1,15 @@
+<script context="module">
+    // TODO: implement API to use this code
+    /*
+    export async function preload() {
+        let data = {};
+        const response = await this.fetch()
+        data = await response.json();
+        return { data };
+    }
+     */
+</script>
+
 <script>
     import {onMount} from 'svelte';
     import Header from '../components/Header.svelte'
@@ -129,6 +141,10 @@
     })*/
 
 </script>
+
+<svelte:head>
+  <title>Pelusigram</title>
+</svelte:head>
 
 <Main>
     <TimeLine posts={data.posts} />

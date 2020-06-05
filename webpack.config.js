@@ -64,5 +64,10 @@ module.exports = {
     performance: {
       hints: false
     }
+  },
+  serviceWorker: {
+    entry: config.serviceworker.entry(),
+    output: config.serviceworker.output(),
+    mode: process.env.NODE_ENV
   }
 };

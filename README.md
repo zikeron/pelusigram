@@ -2,6 +2,8 @@
 
 An web site in honor to my little pet.
 
+Check it! https://pelusigram-official.netlify.app/
+
 ## Description
 
 A basic Svelte application.

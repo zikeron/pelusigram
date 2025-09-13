@@ -20,6 +20,6 @@
   "dependencies": {
     "compression": "^1.7.4",
     "polka": "^0.5.2",
-    "sirv": "^0.4.6"
+    "sirv": "^3.0.2"
   }
 }
